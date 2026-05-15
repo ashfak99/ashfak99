@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone! 👋<br><br>I'm Ashfak Alam, currently pursuing B.Tech (2nd year completed) from Aliah University. I also hold a Diploma from Jamia Millia Islamia.<br><br>I'm deeply interested in Backend Development and Generative AI, and I'm actively building my skills in these domains. Always looking to learn, collaborate, and grow with like-minded people.<br>
+Hey everyone! 👋<br><br>I'm Ashfak Alam, currently pursuing B.Tech from Aliah University. I also hold a Diploma from Jamia Millia Islamia.<br><br>I'm deeply interested in Backend Development and Generative AI, and I'm actively building my skills in these domains. Always looking to learn, collaborate, and grow with like-minded people.<br>
 
 
 ## 🌐 Socials:
