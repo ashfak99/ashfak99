@@ -87,8 +87,8 @@ I'm passionate about building **backend systems, APIs, databases, and Generative
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashfak99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfak99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashfak99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" referrerpolicy="no-referrer" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfak99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" referrerpolicy="no-referrer" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ I'm passionate about building **backend systems, APIs, databases, and Generative
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashfak99&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ashfak99&theme=tokyonight&hide_border=true" alt="GitHub Streak" referrerpolicy="no-referrer" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ I'm passionate about building **backend systems, APIs, databases, and Generative
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfak99&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashfak99&theme=tokyo-night&hide_border=true" alt="Contribution Graph" referrerpolicy="no-referrer" />
 </p>
 
 ---
