@@ -17,6 +17,9 @@ I'm passionate about building **backend systems, APIs, databases, and Generative
 ## 🌐 Connect With Me
 
 <p align="left">
+  <a href="https://portfolio-lime-nine-rn7pdx1ke7.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/ashfak99">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
